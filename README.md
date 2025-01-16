@@ -1,4 +1,5 @@
 #Code accompanying the paper "Entropy Similarity-Driven Transformation Reaction Molecular Networking: Revealing Transformation Pathways and Potential Risks of Emerging Contaminants in Wastewater: The Example of Sartans" by Yuli Qian et al.
+
 Files provided:
 A.  ESTRMN.py: The main script that performs the analysis of parent and product spectra, calculates entropy similarities, and visualizes the resulting molecular network.
 B. parent.xlsx: Example input file containing the parent spectra data. Columns include:
