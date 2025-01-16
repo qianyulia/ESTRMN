@@ -10,12 +10,12 @@ C. product.xlsx: Example input file containing the product spectra data, formatt
 1. Requirements:
 This program requires the following Python libraries: numpy pandas ms_entropy networkx matplotlib tqdm
 You can install them using:
-'''
+'''ruby
 pip install numpy pandas ms_entropy networkx matplotlib tqdm
 '''
 3. Running the Script:
 To run the program, execute the following command in your terminal:
-'''
+'''ruby
 python  ESTRMN.py
 '''
 5. Notes:
