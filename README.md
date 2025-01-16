@@ -20,16 +20,18 @@ pip install numpy pandas ms_entropy networkx matplotlib tqdm
 ```
 
 2. Running the Script:
+
 To run the program, execute the following command in your terminal:
 ```ruby
 python  ESTRMN.py
 ```
 
 3. Notes:
+
 Input Data: The script expects parent.xlsx and product.xlsx to be present in the working directory.
 Parameters: You can adjust the similarity threshold in the code by changing if similarity > 0.5. The default threshold is set to 0.5 for identifying similar spectra. Adjust the network layout and graph drawing parameters based on your needs.
 
-4. Output:
+5. Output:
 
 similarities.csv: This file contains the calculated similarity scores for each pair of parent and product spectra.
 network.png: A graph plot visualizing the molecular network based on the calculated similarities.
