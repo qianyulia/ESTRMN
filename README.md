@@ -10,14 +10,14 @@ C. product.xlsx: Example input file containing the product spectra data, formatt
 1. Requirements:
 This program requires the following Python libraries: numpy pandas ms_entropy networkx matplotlib tqdm
 You can install them using:
-'''ruby
+```ruby
 pip install numpy pandas ms_entropy networkx matplotlib tqdm
-'''
+```
 3. Running the Script:
 To run the program, execute the following command in your terminal:
-'''ruby
+```ruby
 python  ESTRMN.py
-'''
+```
 5. Notes:
 Input Data: The script expects parent.xlsx and product.xlsx to be present in the working directory.
 Parameters: You can adjust the similarity threshold in the code by changing if similarity > 0.5. The default threshold is set to 0.5 for identifying similar spectra. Adjust the network layout and graph drawing parameters based on your needs.
