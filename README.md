@@ -25,7 +25,7 @@ To run the program, execute the following command in your terminal:
 python  ESTRMN.py
 ```
 3. Notes:
-   
+
 Input Data: The script expects parent.xlsx and product.xlsx to be present in the working directory.
 Parameters: You can adjust the similarity threshold in the code by changing if similarity > 0.5. The default threshold is set to 0.5 for identifying similar spectra. Adjust the network layout and graph drawing parameters based on your needs.
 4. Output:
